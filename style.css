@@ -1,0 +1,22 @@
+p {
+    background-color: chartreuse
+}
+
+h1 {
+    color: aqua;
+}
+
+#bio {
+    color:brown
+}
+
+#bio:hover {
+    font-size: 40px;
+    cursor: help;
+}
+
+.btn {
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: hsl(120, 50%, 30%);
+}
